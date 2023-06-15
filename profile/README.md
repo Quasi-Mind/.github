@@ -32,6 +32,6 @@ We encourage contributions from everyone who is interested in our work. Check ou
 
 Stay updated with our latest research findings and developments:
 
-TODO: - Join our [Discord server](Discord_Server_Link)
-TODO: - Follow us on [Twitter](Twitter_Handle_Link)
+- Join our [Discord server](https://discord.gg/St7hs9MRtu)
+- Follow us on [Twitter](Twitter_Handle_Link) (no link yet)
 - Visit our [website](https://quasi-mind.org)
