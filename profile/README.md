@@ -1,7 +1,6 @@
 # Quasi-Mind Research Group 
 
-TODO: make logo / banner
-![Banner Image](Banner_Image_Link)
+<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
 
 Welcome to Quasi-Mind, a research group dedicated to exploring and developing the concept of quasi-mind, a framework for simulating and navigating human-like cognitive processes.
 
