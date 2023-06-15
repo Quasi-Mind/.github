@@ -19,7 +19,7 @@ Here at Quasi-Mind, we are:
 
 Here are some of our key projects:
 
-1. **Deep Unconscious Mind (DUM) Framework** - Our primary research focus.
+1. [**Deep Unconscious Mind (DUM) Framework**](https://github.com/Quasi-Mind/deep-unconscious-mind) - Our primary research focus.
 
 For more details, please visit the respective repositories.
 
