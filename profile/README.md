@@ -34,4 +34,4 @@ Stay updated with our latest research findings and developments:
 
 TODO: - Join our [Discord server](Discord_Server_Link)
 TODO: - Follow us on [Twitter](Twitter_Handle_Link)
-TODO: - Visit our [website](Website_Link)
+- Visit our [website](https://quasi-mind.org)
